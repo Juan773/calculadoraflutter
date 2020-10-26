@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rootkal/flutter_visualcode/calculadora_codigos_junior-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/rootkal/flutter_visualcode/calculadora_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/Users/rootkal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/9bc26303556a55b57688324a0805268c/res/values-en-rXC/values-en-rXC.xml",
