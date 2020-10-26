@@ -1,0 +1,4 @@
+#Mon Oct 26 01:48:47 PET 2020
+base.0=/Users/rootkal/flutter_visualcode/calculadora_codigos_junior-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
